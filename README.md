@@ -4,4 +4,4 @@
 
 
 ### Games
-- [guess_number_game](https://github.com/chenzhongd/python/blob/main/game/guess_number_game.py)
+- [guess_number_game](https://github.com/chenzhongd/python/blob/main/games/guess_number_game.py)
